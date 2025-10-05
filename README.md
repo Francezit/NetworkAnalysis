@@ -2,11 +2,6 @@
 
 A C++ network analysis tool that provides network topology generation, flow optimization algorithms, and analysis capabilities through an interactive shell interface.
 
-Related Publications:
-
-Improving an immune-inspired algorithm by linear regression: A case study on network reliability
-(https://doi.org/10.1016/j.knosys.2024.112034)
-
 
 ## Features
 
@@ -139,3 +134,9 @@ Classical maximum flow algorithm that finds the maximum possible flow from sourc
 - Memory management is handled manually with careful allocation/deallocation
 - The shell interface supports both interactive and batch processing modes
 - Object files are organized in the `bin/debug/` directory for clean builds
+
+## Related Publication
+
+Improving an immune-inspired algorithm by linear regression: A case study on network reliability
+(https://doi.org/10.1016/j.knosys.2024.112034)
+
