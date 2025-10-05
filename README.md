@@ -2,7 +2,7 @@
 
 A C++ network analysis tool that provides network topology generation, flow optimization algorithms, and analysis capabilities through an interactive shell interface.
 
-If you use this project in a paper, please cite:
+Related Publications:
 
 Improving an immune-inspired algorithm by linear regression: A case study on network reliability
 (https://doi.org/10.1016/j.knosys.2024.112034)
